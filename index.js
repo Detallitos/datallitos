@@ -2,8 +2,8 @@ const yesBtn = document.querySelector('#yesBtn');
 
 yesBtn.addEventListener('click',function () {
     alert('SABIA QUE DIRIAS SI')
-    alert('TE AMO MUCHO')
-    alert('NA ES BROMA JSJS, TE QUIERO MUCHO AMIGA')
+    alert('ME HACES LA PERSONA MÁS FELÍZ DEL MUNDO')
+    alert('ME DEBES UN AUDIO DICIENDO AQUITA TU BB')
 });
 
 const noBtn = document.querySelector('#noBtn');
